@@ -1,7 +1,7 @@
 # Freephish
 It's a phishing page generator for freefire
 
-Made with ![heart](https://cloud.githubusercontent.com/assets/4301109/16754758/82e3a63c-4813-11e6-9430-6015d98aeaab.png) by <a href=htpp.piyush.fyter.hacker.id.maker09?mibextid=ZbWKwL>𝐏𝐈𝐘𝐔𝐒𝐇 𝐓𝐑𝐈𝐂𝐊𝐄𝐓</a>
+Made with ![heart](https://cloud.githubusercontent.com/assets/4301109/16754758/82e3a63c-4813-11e6-9430-6015d98aeaab.png) by <a https://www.facebook.com/piyush.fyter.hacker.id.maker09?mibextid=ZbWKwL >𝐏𝐈𝐘𝐔𝐒𝐇 𝐓𝐑𝐈𝐂𝐊𝐄𝐓</a>
 
 ## Usage
 Clone it by
