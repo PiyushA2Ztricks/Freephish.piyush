@@ -6,7 +6,7 @@ Made with ![heart](https://cloud.githubusercontent.com/assets/4301109/16754758/8
 ## Usage
 Clone it by
 ```bash
-git clone https://github.com/anubhavanonymous/Freephish
+git clone https://github.com/PiyushA2Ztricks/Freephish.piyush.git
 ```
 Now, Navigate to Freephish Directory
 ```bash
